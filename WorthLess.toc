@@ -1,0 +1,10 @@
+## Interface: 16001
+## Title: Worth Less
+## Notes: Highlights the lowest-value non-quest item(s) in your bags so you know what to vendor or drop first.
+## Author: noftz
+## Version: 0.2.0
+## SavedVariables: WorthLessDB
+## IconTexture: Interface\Icons\INV_Misc_Coin_02
+
+WorthLess.lua
+WorthLess_Options.lua
